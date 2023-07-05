@@ -1,5 +1,7 @@
-CREATE DATABASE RONIT 
+
 --- ZOMATO PROJECT--
+
+
 ---CREATING TABLE ---
 
 CREATE TABLE goldusers_signup(userid integer,gold_signup_date date); 
